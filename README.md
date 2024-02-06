@@ -38,7 +38,8 @@ To start creating your blockchain:
 - **`contact`**: Contact information for the repository owner
 
 ## Output
-	<img width="458" alt="image" src="https://github.com/gaurav-aditya/Create-your-own-blockchain/assets/110540811/253017fc-d2a9-40a8-ac96-1b06024f1485">
+	
+<img width="458" alt="image" src="https://github.com/gaurav-aditya/Create-your-own-blockchain/assets/110540811/6419a495-135f-4ee0-81d8-fe834845b22d">
 
 
 ## Blockchain

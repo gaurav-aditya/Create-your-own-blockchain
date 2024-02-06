@@ -37,6 +37,10 @@ To start creating your blockchain:
 - **`LICENSE`**: The license under which this repository is distributed.
 - **`contact`**: Contact information for the repository owner
 
+## Output
+	<img width="458" alt="image" src="https://github.com/gaurav-aditya/Create-your-own-blockchain/assets/110540811/253017fc-d2a9-40a8-ac96-1b06024f1485">
+
+
 ## Blockchain
 
 If you have any questions or need further assistance, feel free to contact the tutorial author at echoaditya@proton.me.

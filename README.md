@@ -7,7 +7,7 @@ Welcome to the basic blockchain GitHub repository! In this, we'll be creating a 
 To follow along with this tutorial, you will need the following:
 
 - Java and JDK installed.
-- Eclipse or another IDE/Text Editor of your choice.
+- Eclipse , Apache Netbeans or another IDE/Text Editor of your choice.
 - Basic understanding of object-oriented programming (OOP) concepts.
 
 ## Making the Blockchain
